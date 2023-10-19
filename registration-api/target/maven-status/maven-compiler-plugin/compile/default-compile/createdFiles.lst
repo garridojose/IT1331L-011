@@ -1,0 +1,4 @@
+com\uap\it1311l\registrationapi\RegistrationApiApplication.class
+com\uap\it1311l\registrationapi\model\Attendee.class
+com\uap\it1311l\registrationapi\controller\RegistrationController.class
+com\uap\it1311l\registrationapi\controller\TestController.class
